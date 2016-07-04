@@ -1,1 +1,1 @@
-# website
+This is the website being made for Young ICT Explorers competition 2016.

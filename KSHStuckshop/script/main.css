@@ -1,0 +1,45 @@
+html, body {
+	height:100%;
+}
+
+.fulllength {
+	background-image:url(../images/cream_dust_85.png);
+	margin-left:12%;
+	margin-right:12%;
+	padding-left:0;
+	padding-right:0;
+	height:100%;
+}
+
+.alert {
+	font-size:16px;
+}
+
+table {
+	background-color:#ECECEC;
+}
+
+/* Sortable tables */
+table.sortable thead {
+    background-color:#C0C0C0;
+    color:#000000;
+    font-weight: bold;
+    cursor: default;
+}
+
+@media (max-width: 960px) {
+	.fulllength {
+	background-image:url(../images/cream_dust_85.png);
+	margin-left:0%;
+	margin-right:0%;
+	padding-right: 0%;
+    padding-left: 0%;
+	height:100%;
+}
+}
+.main {
+	background-color:transparent;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-bottom:-20px;
+}
